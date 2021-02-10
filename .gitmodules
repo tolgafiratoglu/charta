@@ -1,0 +1,6 @@
+[submodule "charta-backend"]
+	path = charta-backend
+	url = https://github.com/tolgafiratoglu/charta-backend.git
+[submodule "charta-frontend"]
+	path = charta-frontend
+	url = https://github.com/tolgafiratoglu/charta-frontend.git
